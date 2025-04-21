@@ -5,4 +5,3 @@ My name is Rūta and I am a huge fan of chocolate, cats, travels and puzzles! Pr
 🌱 *Originally from:* &nbsp; Vilnius, Lithuania    
 📖 *Studying:*  &nbsp; BSc. Computer Science and Engineering    
 🎓 *University:* &nbsp; Delft University of Technology (TU Delft)    
-🧭 *Currently:* &nbsp; spending my time learning new skills and improving by building small projects
